@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin user",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "12",
+      "name": "munees",
+      "email": "munees@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "2",
+      "name": "zahin",
+      "email": "zahin@gmail.com",
+      "active": "2"
+    }
+  ]
+}
